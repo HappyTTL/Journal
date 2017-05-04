@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  4 MAY 2017 19:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  4 MAY 2017 19:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -430,21 +430,24 @@ Underfull \vbox (badness 1215) has occurred while \output is active []
 
 
  <./building-eps-converted-to.pdf>]
-LaTeX Font Info:    Try loading font information for U+msa on input line 66.
+LaTeX Font Info:    Try loading font information for U+msa on input line 62.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 66.
+LaTeX Font Info:    Try loading font information for U+msb on input line 62.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [2]
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
 <ShadowFieldDeCorr20.jpg, id=27, 817.0525pt x 587.19376pt>
 File: ShadowFieldDeCorr20.jpg Graphic file (type jpg)
 
 <use ShadowFieldDeCorr20.jpg>
-Package pdftex.def Info: ShadowFieldDeCorr20.jpg used on input line 105.
+Package pdftex.def Info: ShadowFieldDeCorr20.jpg used on input line 101.
 (pdftex.def)             Requested size: 227.62204pt x 163.57986pt.
 Package epstopdf Info: Source file: <outageArea.eps>
 (epstopdf)                    date: 2017-04-11 15:12:41
@@ -454,14 +457,14 @@ Package epstopdf Info: Source file: <outageArea.eps>
 (epstopdf)                    size: 201439 bytes
 (epstopdf)             Command: <repstopdf --outfile=outageArea-eps-converted-t
 o.pdf outageArea.eps>
-(epstopdf)             \includegraphics on input line 115.
+(epstopdf)             \includegraphics on input line 111.
 Package epstopdf Info: Output file is already uptodate.
 
 <outageArea-eps-converted-to.pdf, id=28, 915.42pt x 368.37625pt>
 File: outageArea-eps-converted-to.pdf Graphic file (type pdf)
 
 <use outageArea-eps-converted-to.pdf>
-Package pdftex.def Info: outageArea-eps-converted-to.pdf used on input line 115
+Package pdftex.def Info: outageArea-eps-converted-to.pdf used on input line 111
 .
 (pdftex.def)             Requested size: 398.33858pt x 160.29295pt.
 Package epstopdf Info: Source file: <systemLayout.eps>
@@ -472,7 +475,7 @@ Package epstopdf Info: Source file: <systemLayout.eps>
 (epstopdf)                    size: 7703 bytes
 (epstopdf)             Command: <repstopdf --outfile=systemLayout-eps-converted
 -to.pdf systemLayout.eps>
-(epstopdf)             \includegraphics on input line 128.
+(epstopdf)             \includegraphics on input line 124.
 Package epstopdf Info: Output file is already uptodate.
 
 <systemLayout-eps-converted-to.pdf, id=29, 1215.54124pt x 445.665pt>
@@ -480,10 +483,10 @@ File: systemLayout-eps-converted-to.pdf Graphic file (type pdf)
 
 <use systemLayout-eps-converted-to.pdf>
 Package pdftex.def Info: systemLayout-eps-converted-to.pdf used on input line 1
-28.
+24.
 (pdftex.def)             Requested size: 256.0748pt x 93.88481pt.
 
-Overfull \hbox (4.0748pt too wide) in paragraph at lines 128--129
+Overfull \hbox (4.0748pt too wide) in paragraph at lines 124--125
  [][] 
  []
 
@@ -496,7 +499,7 @@ Package epstopdf Info: Source file: <GridVSRandom.eps>
 (epstopdf)                    size: 63482 bytes
 (epstopdf)             Command: <repstopdf --outfile=GridVSRandom-eps-converted
 -to.pdf GridVSRandom.eps>
-(epstopdf)             \includegraphics on input line 256.
+(epstopdf)             \includegraphics on input line 252.
 Package epstopdf Info: Output file is already uptodate.
 
 <GridVSRandom-eps-converted-to.pdf, id=40, 1284.8pt x 700.6175pt>
@@ -504,7 +507,7 @@ File: GridVSRandom-eps-converted-to.pdf Graphic file (type pdf)
 
 <use GridVSRandom-eps-converted-to.pdf>
 Package pdftex.def Info: GridVSRandom-eps-converted-to.pdf used on input line 2
-56.
+52.
 (pdftex.def)             Requested size: 227.62204pt x 124.11726pt.
 Package epstopdf Info: Source file: <OutageProbGridVSRandom.eps>
 (epstopdf)                    date: 2017-03-30 10:37:16
@@ -515,7 +518,7 @@ f>
 (epstopdf)                    size: 9230 bytes
 (epstopdf)             Command: <repstopdf --outfile=OutageProbGridVSRandom-eps
 -converted-to.pdf OutageProbGridVSRandom.eps>
-(epstopdf)             \includegraphics on input line 262.
+(epstopdf)             \includegraphics on input line 258.
 Package epstopdf Info: Output file is already uptodate.
 
 <OutageProbGridVSRandom-eps-converted-to.pdf, id=41, 562.1pt x 421.575pt>
@@ -523,8 +526,9 @@ File: OutageProbGridVSRandom-eps-converted-to.pdf Graphic file (type pdf)
 
 <use OutageProbGridVSRandom-eps-converted-to.pdf>
 Package pdftex.def Info: OutageProbGridVSRandom-eps-converted-to.pdf used on in
-put line 262.
+put line 258.
 (pdftex.def)             Requested size: 227.62204pt x 170.71764pt.
+ [4 <./outageArea-eps-converted-to.pdf> <./systemLayout-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <NBMax1000OutageProbCDFiid.eps>
 (epstopdf)                    date: 2017-04-07 10:15:30
 (epstopdf)                    size: 421568 bytes
@@ -534,14 +538,14 @@ Package epstopdf Info: Source file: <NBMax1000OutageProbCDFiid.eps>
 (epstopdf)                    size: 86858 bytes
 (epstopdf)             Command: <repstopdf --outfile=NBMax1000OutageProbCDFiid-
 eps-converted-to.pdf NBMax1000OutageProbCDFiid.eps>
-(epstopdf)             \includegraphics on input line 274.
+(epstopdf)             \includegraphics on input line 270.
 Package epstopdf Info: Output file is already uptodate.
 
-<NBMax1000OutageProbCDFiid-eps-converted-to.pdf, id=42, 898.35625pt x 594.22pt>
+<NBMax1000OutageProbCDFiid-eps-converted-to.pdf, id=66, 898.35625pt x 594.22pt>
 File: NBMax1000OutageProbCDFiid-eps-converted-to.pdf Graphic file (type pdf)
 <use NBMax1000OutageProbCDFiid-eps-converted-to.pdf>
 Package pdftex.def Info: NBMax1000OutageProbCDFiid-eps-converted-to.pdf used on
- input line 274.
+ input line 270.
 (pdftex.def)             Requested size: 156.49014pt x 103.50949pt.
 Package epstopdf Info: Source file: <NBMax1000OutageProbCDFDeCorr20.eps>
 (epstopdf)                    date: 2017-04-07 10:15:30
@@ -552,19 +556,19 @@ ed-to.pdf>
 (epstopdf)                    size: 77052 bytes
 (epstopdf)             Command: <repstopdf --outfile=NBMax1000OutageProbCDFDeCo
 rr20-eps-converted-to.pdf NBMax1000OutageProbCDFDeCorr20.eps>
-(epstopdf)             \includegraphics on input line 280.
+(epstopdf)             \includegraphics on input line 276.
 Package epstopdf Info: Output file is already uptodate.
 
-<NBMax1000OutageProbCDFDeCorr20-eps-converted-to.pdf, id=43, 898.35625pt x 594.
+<NBMax1000OutageProbCDFDeCorr20-eps-converted-to.pdf, id=67, 898.35625pt x 594.
 22pt>
 File: NBMax1000OutageProbCDFDeCorr20-eps-converted-to.pdf Graphic file (type pd
 f)
  <use NBMax1000OutageProbCDFDeCorr20-eps-converted-to.pdf>
 Package pdftex.def Info: NBMax1000OutageProbCDFDeCorr20-eps-converted-to.pdf us
-ed on input line 280.
+ed on input line 276.
 (pdftex.def)             Requested size: 156.49014pt x 103.50949pt.
 
-Underfull \hbox (badness 1946) in paragraph at lines 280--280
+Underfull \hbox (badness 1946) in paragraph at lines 276--276
 []\OT1/ptm/m/n/8 (b) Cor-re-lated shadow fad-ing with $\OT1/cmr/m/n/8 20\OML/cm
 m/m/it/8 m$ \OT1/ptm/m/n/8 de-
  []
@@ -578,16 +582,16 @@ ted-to.pdf>
 (epstopdf)                    size: 79895 bytes
 (epstopdf)             Command: <repstopdf --outfile=NBMax1000OutageProbCDFDeCo
 rr200-eps-converted-to.pdf NBMax1000OutageProbCDFDeCorr200.eps>
-(epstopdf)             \includegraphics on input line 286.
+(epstopdf)             \includegraphics on input line 282.
 Package epstopdf Info: Output file is already uptodate.
 
-<NBMax1000OutageProbCDFDeCorr200-eps-converted-to.pdf, id=44, 898.35625pt x 594
+<NBMax1000OutageProbCDFDeCorr200-eps-converted-to.pdf, id=68, 898.35625pt x 594
 .22pt>
 File: NBMax1000OutageProbCDFDeCorr200-eps-converted-to.pdf Graphic file (type p
 df)
  <use NBMax1000OutageProbCDFDeCorr200-eps-converted-to.pdf>
 Package pdftex.def Info: NBMax1000OutageProbCDFDeCorr200-eps-converted-to.pdf u
-sed on input line 286.
+sed on input line 282.
 (pdftex.def)             Requested size: 156.49014pt x 103.50949pt.
 Package epstopdf Info: Source file: <MaxMax1000OutageProbCDFiid.eps>
 (epstopdf)                    date: 2017-04-07 10:15:30
@@ -598,15 +602,15 @@ o.pdf>
 (epstopdf)                    size: 108315 bytes
 (epstopdf)             Command: <repstopdf --outfile=MaxMax1000OutageProbCDFiid
 -eps-converted-to.pdf MaxMax1000OutageProbCDFiid.eps>
-(epstopdf)             \includegraphics on input line 297.
+(epstopdf)             \includegraphics on input line 293.
 Package epstopdf Info: Output file is already uptodate.
 
-<MaxMax1000OutageProbCDFiid-eps-converted-to.pdf, id=45, 898.35625pt x 593.2162
+<MaxMax1000OutageProbCDFiid-eps-converted-to.pdf, id=69, 898.35625pt x 593.2162
 5pt>
 File: MaxMax1000OutageProbCDFiid-eps-converted-to.pdf Graphic file (type pdf)
  <use MaxMax1000OutageProbCDFiid-eps-converted-to.pdf>
 Package pdftex.def Info: MaxMax1000OutageProbCDFiid-eps-converted-to.pdf used o
-n input line 297.
+n input line 293.
 (pdftex.def)             Requested size: 156.49014pt x 103.33466pt.
 Package epstopdf Info: Source file: <MaxMax1000OutageProbCDFDeCorr20.eps>
 (epstopdf)                    date: 2017-04-07 10:15:30
@@ -617,19 +621,19 @@ ted-to.pdf>
 (epstopdf)                    size: 57517 bytes
 (epstopdf)             Command: <repstopdf --outfile=MaxMax1000OutageProbCDFDeC
 orr20-eps-converted-to.pdf MaxMax1000OutageProbCDFDeCorr20.eps>
-(epstopdf)             \includegraphics on input line 303.
+(epstopdf)             \includegraphics on input line 299.
 Package epstopdf Info: Output file is already uptodate.
 
-<MaxMax1000OutageProbCDFDeCorr20-eps-converted-to.pdf, id=46, 900.36375pt x 594
+<MaxMax1000OutageProbCDFDeCorr20-eps-converted-to.pdf, id=70, 900.36375pt x 594
 .22pt>
 File: MaxMax1000OutageProbCDFDeCorr20-eps-converted-to.pdf Graphic file (type p
 df)
  <use MaxMax1000OutageProbCDFDeCorr20-eps-converted-to.pdf>
 Package pdftex.def Info: MaxMax1000OutageProbCDFDeCorr20-eps-converted-to.pdf u
-sed on input line 303.
+sed on input line 299.
 (pdftex.def)             Requested size: 156.49014pt x 103.27376pt.
 
-Underfull \hbox (badness 1946) in paragraph at lines 303--303
+Underfull \hbox (badness 1946) in paragraph at lines 299--299
 []\OT1/ptm/m/n/8 (b) Cor-re-lated shadow fad-ing with $\OT1/cmr/m/n/8 20\OML/cm
 m/m/it/8 m$ \OT1/ptm/m/n/8 de-
  []
@@ -643,18 +647,17 @@ rted-to.pdf>
 (epstopdf)                    size: 60005 bytes
 (epstopdf)             Command: <repstopdf --outfile=MaxMax1000OutageProbCDFDeC
 orr200-eps-converted-to.pdf MaxMax1000OutageProbCDFDeCorr200.eps>
-(epstopdf)             \includegraphics on input line 309.
+(epstopdf)             \includegraphics on input line 305.
 Package epstopdf Info: Output file is already uptodate.
 
-<MaxMax1000OutageProbCDFDeCorr200-eps-converted-to.pdf, id=47, 901.3675pt x 594
+<MaxMax1000OutageProbCDFDeCorr200-eps-converted-to.pdf, id=71, 901.3675pt x 594
 .22pt>
 File: MaxMax1000OutageProbCDFDeCorr200-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use MaxMax1000OutageProbCDFDeCorr200-eps-converted-to.pdf>
 Package pdftex.def Info: MaxMax1000OutageProbCDFDeCorr200-eps-converted-to.pdf 
-used on input line 309.
+used on input line 305.
 (pdftex.def)             Requested size: 156.49014pt x 103.16495pt.
- [4 <./outageArea-eps-converted-to.pdf> <./systemLayout-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <NBMax1000OutageProbThresh-5iid.eps>
 (epstopdf)                    date: 2017-04-07 10:15:30
 (epstopdf)                    size: 24987 bytes
@@ -664,7 +667,7 @@ ed-to.pdf>
 (epstopdf)                    size: 10448 bytes
 (epstopdf)             Command: <repstopdf --outfile=NBMax1000OutageProbThresh-
 5iid-eps-converted-to.pdf NBMax1000OutageProbThresh-5iid.eps>
-(epstopdf)             \includegraphics on input line 320.
+(epstopdf)             \includegraphics on input line 316.
 Package epstopdf Info: Output file is already uptodate.
 
 <NBMax1000OutageProbThresh-5iid-eps-converted-to.pdf, id=72, 562.1pt x 421.575p
@@ -673,10 +676,10 @@ File: NBMax1000OutageProbThresh-5iid-eps-converted-to.pdf Graphic file (type pd
 f)
  <use NBMax1000OutageProbThresh-5iid-eps-converted-to.pdf>
 Package pdftex.def Info: NBMax1000OutageProbThresh-5iid-eps-converted-to.pdf us
-ed on input line 320.
+ed on input line 316.
 (pdftex.def)             Requested size: 256.0748pt x 192.05493pt.
 
-Overfull \hbox (4.0748pt too wide) in paragraph at lines 320--321
+Overfull \hbox (4.0748pt too wide) in paragraph at lines 316--317
  [][] 
  []
 
@@ -689,7 +692,7 @@ ted-to.pdf>
 (epstopdf)                    size: 10295 bytes
 (epstopdf)             Command: <repstopdf --outfile=MaxMax1000OutageProbThresh
 -5iid-eps-converted-to.pdf MaxMax1000OutageProbThresh-5iid.eps>
-(epstopdf)             \includegraphics on input line 326.
+(epstopdf)             \includegraphics on input line 322.
 Package epstopdf Info: Output file is already uptodate.
 
 <MaxMax1000OutageProbThresh-5iid-eps-converted-to.pdf, id=73, 562.1pt x 421.575
@@ -698,10 +701,10 @@ File: MaxMax1000OutageProbThresh-5iid-eps-converted-to.pdf Graphic file (type p
 df)
  <use MaxMax1000OutageProbThresh-5iid-eps-converted-to.pdf>
 Package pdftex.def Info: MaxMax1000OutageProbThresh-5iid-eps-converted-to.pdf u
-sed on input line 326.
+sed on input line 322.
 (pdftex.def)             Requested size: 256.0748pt x 192.05493pt.
 
-Overfull \hbox (4.0748pt too wide) in paragraph at lines 326--327
+Overfull \hbox (4.0748pt too wide) in paragraph at lines 322--323
  [][] 
  []
 
@@ -713,14 +716,14 @@ Package epstopdf Info: Source file: <ODthresh-5iidNB.eps>
 (epstopdf)                    size: 9868 bytes
 (epstopdf)             Command: <repstopdf --outfile=ODthresh-5iidNB-eps-conver
 ted-to.pdf ODthresh-5iidNB.eps>
-(epstopdf)             \includegraphics on input line 336.
+(epstopdf)             \includegraphics on input line 332.
 Package epstopdf Info: Output file is already uptodate.
 <ODthresh-5iidNB-eps-converted-to.pdf, id=74, 661.47125pt x 595.22375pt>
 File: ODthresh-5iidNB-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ODthresh-5iidNB-eps-converted-to.pdf>
 Package pdftex.def Info: ODthresh-5iidNB-eps-converted-to.pdf used on input lin
-e 336.
+e 332.
 (pdftex.def)             Requested size: 156.49014pt x 140.81308pt.
 Package epstopdf Info: Source file: <ODthresh-5DeCorr20NBMode2.eps>
 (epstopdf)                    date: 2017-04-24 15:10:13
@@ -731,7 +734,7 @@ Package epstopdf Info: Source file: <ODthresh-5DeCorr20NBMode2.eps>
 (epstopdf)                    size: 10670 bytes
 (epstopdf)             Command: <repstopdf --outfile=ODthresh-5DeCorr20NBMode2-
 eps-converted-to.pdf ODthresh-5DeCorr20NBMode2.eps>
-(epstopdf)             \includegraphics on input line 342.
+(epstopdf)             \includegraphics on input line 338.
 Package epstopdf Info: Output file is already uptodate.
 
 <ODthresh-5DeCorr20NBMode2-eps-converted-to.pdf, id=75, 662.475pt x 587.19376pt
@@ -739,10 +742,10 @@ Package epstopdf Info: Output file is already uptodate.
 File: ODthresh-5DeCorr20NBMode2-eps-converted-to.pdf Graphic file (type pdf)
  <use ODthresh-5DeCorr20NBMode2-eps-converted-to.pdf>
 Package pdftex.def Info: ODthresh-5DeCorr20NBMode2-eps-converted-to.pdf used on
- input line 342.
+ input line 338.
 (pdftex.def)             Requested size: 156.49014pt x 138.70734pt.
 
-Underfull \hbox (badness 1946) in paragraph at lines 342--342
+Underfull \hbox (badness 1946) in paragraph at lines 338--338
 []\OT1/ptm/m/n/8 (b) Cor-re-lated shadow fad-ing with $\OT1/cmr/m/n/8 20\OML/cm
 m/m/it/8 m$ \OT1/ptm/m/n/8 de-
  []
@@ -756,7 +759,7 @@ o.pdf>
 (epstopdf)                    size: 14068 bytes
 (epstopdf)             Command: <repstopdf --outfile=ODthresh-5DeCorr200NBMode2
 -eps-converted-to.pdf ODthresh-5DeCorr200NBMode2.eps>
-(epstopdf)             \includegraphics on input line 348.
+(epstopdf)             \includegraphics on input line 344.
 Package epstopdf Info: Output file is already uptodate.
 
 <ODthresh-5DeCorr200NBMode2-eps-converted-to.pdf, id=76, 664.4825pt x 587.19376
@@ -764,7 +767,7 @@ pt>
 File: ODthresh-5DeCorr200NBMode2-eps-converted-to.pdf Graphic file (type pdf)
  <use ODthresh-5DeCorr200NBMode2-eps-converted-to.pdf>
 Package pdftex.def Info: ODthresh-5DeCorr200NBMode2-eps-converted-to.pdf used o
-n input line 348.
+n input line 344.
 (pdftex.def)             Requested size: 156.49014pt x 138.28622pt.
 Package epstopdf Info: Source file: <ODthresh-5iidMax.eps>
 (epstopdf)                    date: 2017-04-07 10:15:30
@@ -774,7 +777,7 @@ Package epstopdf Info: Source file: <ODthresh-5iidMax.eps>
 (epstopdf)                    size: 9608 bytes
 (epstopdf)             Command: <repstopdf --outfile=ODthresh-5iidMax-eps-conve
 rted-to.pdf ODthresh-5iidMax.eps>
-(epstopdf)             \includegraphics on input line 358.
+(epstopdf)             \includegraphics on input line 354.
 Package epstopdf Info: Output file is already uptodate.
 
 <ODthresh-5iidMax-eps-converted-to.pdf, id=77, 660.4675pt x 595.22375pt>
@@ -782,7 +785,7 @@ File: ODthresh-5iidMax-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ODthresh-5iidMax-eps-converted-to.pdf>
 Package pdftex.def Info: ODthresh-5iidMax-eps-converted-to.pdf used on input li
-ne 358.
+ne 354.
 (pdftex.def)             Requested size: 156.49014pt x 141.03105pt.
 Package epstopdf Info: Source file: <ODthresh-5DeCorr20MaxMode2.eps>
 (epstopdf)                    date: 2017-04-24 15:16:44
@@ -793,7 +796,7 @@ o.pdf>
 (epstopdf)                    size: 10582 bytes
 (epstopdf)             Command: <repstopdf --outfile=ODthresh-5DeCorr20MaxMode2
 -eps-converted-to.pdf ODthresh-5DeCorr20MaxMode2.eps>
-(epstopdf)             \includegraphics on input line 364.
+(epstopdf)             \includegraphics on input line 360.
 Package epstopdf Info: Output file is already uptodate.
 
 <ODthresh-5DeCorr20MaxMode2-eps-converted-to.pdf, id=78, 662.475pt x 587.19376p
@@ -801,10 +804,10 @@ t>
 File: ODthresh-5DeCorr20MaxMode2-eps-converted-to.pdf Graphic file (type pdf)
  <use ODthresh-5DeCorr20MaxMode2-eps-converted-to.pdf>
 Package pdftex.def Info: ODthresh-5DeCorr20MaxMode2-eps-converted-to.pdf used o
-n input line 364.
+n input line 360.
 (pdftex.def)             Requested size: 156.49014pt x 138.70734pt.
 
-Underfull \hbox (badness 1946) in paragraph at lines 364--364
+Underfull \hbox (badness 1946) in paragraph at lines 360--360
 []\OT1/ptm/m/n/8 (b) Cor-re-lated shadow fad-ing with $\OT1/cmr/m/n/8 20\OML/cm
 m/m/it/8 m$ \OT1/ptm/m/n/8 de-
  []
@@ -818,7 +821,7 @@ to.pdf>
 (epstopdf)                    size: 13781 bytes
 (epstopdf)             Command: <repstopdf --outfile=ODthresh-5DeCorr200MaxMode
 2-eps-converted-to.pdf ODthresh-5DeCorr200MaxMode2.eps>
-(epstopdf)             \includegraphics on input line 370.
+(epstopdf)             \includegraphics on input line 366.
 Package epstopdf Info: Output file is already uptodate.
 
 <ODthresh-5DeCorr200MaxMode2-eps-converted-to.pdf, id=79, 663.47874pt x 587.193
@@ -826,7 +829,7 @@ Package epstopdf Info: Output file is already uptodate.
 File: ODthresh-5DeCorr200MaxMode2-eps-converted-to.pdf Graphic file (type pdf)
  <use ODthresh-5DeCorr200MaxMode2-eps-converted-to.pdf>
 Package pdftex.def Info: ODthresh-5DeCorr200MaxMode2-eps-converted-to.pdf used 
-on input line 370.
+on input line 366.
 (pdftex.def)             Requested size: 156.49014pt x 138.4923pt.
 
 Underfull \vbox (badness 1728) has occurred while \output is active []
@@ -855,7 +858,7 @@ pdf> <./ODthresh-5DeCorr200MaxMode2-eps-converted-to.pdf>] (./VTS.bbl) [8] [9
 Here is how much of TeX's memory you used:
  4877 strings out of 493014
  71396 string characters out of 6133351
- 150097 words of memory out of 5000000
+ 150308 words of memory out of 5000000
  8312 multiletter control sequences out of 15000+600000
  46229 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -883,7 +886,7 @@ mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fo
 nts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
 /urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times
 /utmri8a.pfb>
-Output written on VTS.pdf (9 pages, 1167684 bytes).
+Output written on VTS.pdf (9 pages, 1167844 bytes).
 PDF statistics:
  348 PDF objects out of 1000 (max. 8388607)
  238 compressed objects within 3 object streams

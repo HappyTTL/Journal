@@ -21,10 +21,6 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{graziano1978propagation}
-V.~Graziano, ``Propagation correlations at 900 mhz,'' \emph{Vehicular
-  Technology, IEEE Transactions on}, vol.~27, no.~4, pp. 182--189, 1978.
-
 \bibitem{rappaport1996wireless}
 T.~S. Rappaport, \emph{Wireless communications: principles and practice}.\hskip
   1em plus 0.5em minus 0.4em\relax Prentice Hall PTR New Jersey, 1996, vol.~2.
@@ -103,6 +99,10 @@ S.~Kumar, ``Approximate outage probability and capacity for-shadowed fading,''
 \bibitem{goldsmith2005wireless}
 A.~Goldsmith, \emph{Wireless communications}.\hskip 1em plus 0.5em minus
   0.4em\relax Cambridge University Press, 2005.
+
+\bibitem{graziano1978propagation}
+V.~Graziano, ``Propagation correlations at 900 mhz,'' \emph{Vehicular
+  Technology, IEEE Transactions on}, vol.~27, no.~4, pp. 182--189, 1978.
 
 \bibitem{szyszkowicz2010feasibility}
 S.~S. Szyszkowicz, H.~Yanikomeroglu, and J.~S. Thompson, ``On the feasibility
