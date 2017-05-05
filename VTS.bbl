@@ -43,13 +43,13 @@ F.~Fabbri and R.~Verdone, ``The impact of correlated channel fluctuations on
 
 \bibitem{patwari2008effects}
 N.~Patwari and P.~Agrawal, ``Effects of correlated shadowing: Connectivity,
-  localization, and rf tomography,'' in \emph{Information Processing in Sensor
-  Networks, 2008. IPSN'08. International Conference on}.\hskip 1em plus 0.5em
-  minus 0.4em\relax IEEE, 2008, pp. 82--93.
+  localization, and {RF} tomography,'' in \emph{Information Processing in
+  Sensor Networks, 2008. IPSN'08. International Conference on}.\hskip 1em plus
+  0.5em minus 0.4em\relax IEEE, 2008, pp. 82--93.
 
 \bibitem{abu1991outage}
 A.~A. Abu-Dayya and N.~C. Beaulieu, ``Outage probabilities of cellular mobile
-  radio systems with multiple nakagami interferers,'' \emph{Vehicular
+  radio systems with multiple {Nakagami} interferers,'' \emph{Vehicular
   Technology, IEEE Transactions on}, vol.~40, no.~4, pp. 757--768, 1991.
 
 \bibitem{petrovic2013outage}
@@ -101,7 +101,7 @@ A.~Goldsmith, \emph{Wireless communications}.\hskip 1em plus 0.5em minus
   0.4em\relax Cambridge University Press, 2005.
 
 \bibitem{graziano1978propagation}
-V.~Graziano, ``Propagation correlations at 900 mhz,'' \emph{Vehicular
+V.~Graziano, ``Propagation correlations at 900 {MHz},'' \emph{Vehicular
   Technology, IEEE Transactions on}, vol.~27, no.~4, pp. 182--189, 1978.
 
 \bibitem{szyszkowicz2010feasibility}
