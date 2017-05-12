@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  11 MAY 2017 22:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  11 MAY 2017 23:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -523,11 +523,11 @@ Overfull \hbox (4.0748pt too wide) in paragraph at lines 148--149
  []
 
 Package epstopdf Info: Source file: <GridVSRandom.eps>
-(epstopdf)                    date: 2017-03-30 10:39:15
-(epstopdf)                    size: 342337 bytes
+(epstopdf)                    date: 2017-05-11 23:11:15
+(epstopdf)                    size: 342327 bytes
 (epstopdf)             Output file: <GridVSRandom-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-04-24 13:46:43
-(epstopdf)                    size: 63482 bytes
+(epstopdf)                    date: 2017-05-11 23:11:19
+(epstopdf)                    size: 62908 bytes
 (epstopdf)             Command: <repstopdf --outfile=GridVSRandom-eps-converted
 -to.pdf GridVSRandom.eps>
 (epstopdf)             \includegraphics on input line 276.
@@ -560,12 +560,12 @@ put line 282.
 (pdftex.def)             Requested size: 227.62204pt x 170.71764pt.
  [4 <./systemLayout-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <NBMax1000OutageProbCDFiidV2.eps>
-(epstopdf)                    date: 2017-05-10 16:44:54
-(epstopdf)                    size: 381207 bytes
+(epstopdf)                    date: 2017-05-11 23:24:05
+(epstopdf)                    size: 381197 bytes
 (epstopdf)             Output file: <NBMax1000OutageProbCDFiidV2-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2017-05-10 17:25:27
-(epstopdf)                    size: 75221 bytes
+(epstopdf)                    date: 2017-05-11 23:24:10
+(epstopdf)                    size: 74646 bytes
 (epstopdf)             Command: <repstopdf --outfile=NBMax1000OutageProbCDFiidV
 2-eps-converted-to.pdf NBMax1000OutageProbCDFiidV2.eps>
 (epstopdf)             \includegraphics on input line 294.
@@ -579,12 +579,12 @@ Package pdftex.def Info: NBMax1000OutageProbCDFiidV2-eps-converted-to.pdf used
 on input line 294.
 (pdftex.def)             Requested size: 156.49014pt x 117.21266pt.
 Package epstopdf Info: Source file: <NBMax1000OutageProbCDFDeCorr20V2.eps>
-(epstopdf)                    date: 2017-05-10 16:53:17
-(epstopdf)                    size: 366677 bytes
+(epstopdf)                    date: 2017-05-11 23:22:59
+(epstopdf)                    size: 366667 bytes
 (epstopdf)             Output file: <NBMax1000OutageProbCDFDeCorr20V2-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2017-05-10 17:25:28
-(epstopdf)                    size: 63681 bytes
+(epstopdf)                    date: 2017-05-11 23:23:05
+(epstopdf)                    size: 63108 bytes
 (epstopdf)             Command: <repstopdf --outfile=NBMax1000OutageProbCDFDeCo
 rr20V2-eps-converted-to.pdf NBMax1000OutageProbCDFDeCorr20V2.eps>
 (epstopdf)             \includegraphics on input line 300.
@@ -599,12 +599,12 @@ Package pdftex.def Info: NBMax1000OutageProbCDFDeCorr20V2-eps-converted-to.pdf
 used on input line 300.
 (pdftex.def)             Requested size: 156.49014pt x 119.04048pt.
 Package epstopdf Info: Source file: <NBMax1000OutageProbCDFDeCorr200V2.eps>
-(epstopdf)                    date: 2017-05-10 17:47:10
-(epstopdf)                    size: 359637 bytes
+(epstopdf)                    date: 2017-05-11 23:21:36
+(epstopdf)                    size: 359627 bytes
 (epstopdf)             Output file: <NBMax1000OutageProbCDFDeCorr200V2-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2017-05-10 17:51:53
-(epstopdf)                    size: 65791 bytes
+(epstopdf)                    date: 2017-05-11 23:21:41
+(epstopdf)                    size: 65218 bytes
 (epstopdf)             Command: <repstopdf --outfile=NBMax1000OutageProbCDFDeCo
 rr200V2-eps-converted-to.pdf NBMax1000OutageProbCDFDeCorr200V2.eps>
 (epstopdf)             \includegraphics on input line 306.
@@ -619,12 +619,12 @@ Package pdftex.def Info: NBMax1000OutageProbCDFDeCorr200V2-eps-converted-to.pdf
  used on input line 306.
 (pdftex.def)             Requested size: 156.48375pt x 120.92204pt.
 Package epstopdf Info: Source file: <MaxMax1000OutageProbCDFiidV2.eps>
-(epstopdf)                    date: 2017-05-10 18:03:22
-(epstopdf)                    size: 368629 bytes
+(epstopdf)                    date: 2017-05-11 23:19:10
+(epstopdf)                    size: 368619 bytes
 (epstopdf)             Output file: <MaxMax1000OutageProbCDFiidV2-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2017-05-10 18:03:23
-(epstopdf)                    size: 73976 bytes
+(epstopdf)                    date: 2017-05-11 23:19:14
+(epstopdf)                    size: 73401 bytes
 (epstopdf)             Command: <repstopdf --outfile=MaxMax1000OutageProbCDFiid
 V2-eps-converted-to.pdf MaxMax1000OutageProbCDFiidV2.eps>
 (epstopdf)             \includegraphics on input line 317.
@@ -639,12 +639,12 @@ Package pdftex.def Info: MaxMax1000OutageProbCDFiidV2-eps-converted-to.pdf used
  on input line 317.
 (pdftex.def)             Requested size: 156.49014pt x 123.9255pt.
 Package epstopdf Info: Source file: <MaxMax1000OutageProbCDFDeCorr20V2.eps>
-(epstopdf)                    date: 2017-05-10 18:00:08
-(epstopdf)                    size: 359753 bytes
+(epstopdf)                    date: 2017-05-11 23:15:25
+(epstopdf)                    size: 359743 bytes
 (epstopdf)             Output file: <MaxMax1000OutageProbCDFDeCorr20V2-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2017-05-10 18:00:47
-(epstopdf)                    size: 65657 bytes
+(epstopdf)                    date: 2017-05-11 23:15:28
+(epstopdf)                    size: 65083 bytes
 (epstopdf)             Command: <repstopdf --outfile=MaxMax1000OutageProbCDFDeC
 orr20V2-eps-converted-to.pdf MaxMax1000OutageProbCDFDeCorr20V2.eps>
 (epstopdf)             \includegraphics on input line 323.
@@ -659,12 +659,12 @@ Package pdftex.def Info: MaxMax1000OutageProbCDFDeCorr20V2-eps-converted-to.pdf
  used on input line 323.
 (pdftex.def)             Requested size: 156.49014pt x 123.76285pt.
 Package epstopdf Info: Source file: <MaxMax1000OutageProbCDFDeCorr200V2.eps>
-(epstopdf)                    date: 2017-05-10 17:51:47
-(epstopdf)                    size: 358318 bytes
+(epstopdf)                    date: 2017-05-11 23:13:42
+(epstopdf)                    size: 358308 bytes
 (epstopdf)             Output file: <MaxMax1000OutageProbCDFDeCorr200V2-eps-con
 verted-to.pdf>
-(epstopdf)                    date: 2017-05-10 17:52:44
-(epstopdf)                    size: 65608 bytes
+(epstopdf)                    date: 2017-05-11 23:13:47
+(epstopdf)                    size: 65034 bytes
 (epstopdf)             Command: <repstopdf --outfile=MaxMax1000OutageProbCDFDeC
 orr200V2-eps-converted-to.pdf MaxMax1000OutageProbCDFDeCorr200V2.eps>
 (epstopdf)             \includegraphics on input line 329.
@@ -729,15 +729,20 @@ Overfull \hbox (4.0748pt too wide) in paragraph at lines 346--347
  []
 
 Package epstopdf Info: Source file: <ODthresh-5iidNB.eps>
-(epstopdf)                    date: 2017-04-07 10:15:30
-(epstopdf)                    size: 99206 bytes
+(epstopdf)                    date: 2017-05-11 23:31:07
+(epstopdf)                    size: 99202 bytes
 (epstopdf)             Output file: <ODthresh-5iidNB-eps-converted-to.pdf>
 (epstopdf)                    date: 2017-04-24 13:46:48
 (epstopdf)                    size: 9868 bytes
 (epstopdf)             Command: <repstopdf --outfile=ODthresh-5iidNB-eps-conver
 ted-to.pdf ODthresh-5iidNB.eps>
 (epstopdf)             \includegraphics on input line 356.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(repstopdf --outfile=ODthresh-5iidNB-eps-converted-to.pdf ODthresh-5ii
+dNB.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <ODthresh-5iidNB-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-05-11 23:31:10
+(epstopdf)                    size: 9512 bytes.
 <ODthresh-5iidNB-eps-converted-to.pdf, id=87, 661.47125pt x 595.22375pt>
 File: ODthresh-5iidNB-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -746,12 +751,12 @@ Package pdftex.def Info: ODthresh-5iidNB-eps-converted-to.pdf used on input lin
 e 356.
 (pdftex.def)             Requested size: 156.49014pt x 140.81308pt.
 Package epstopdf Info: Source file: <ODthresh-5DeCorr20NBMode2.eps>
-(epstopdf)                    date: 2017-04-24 15:10:13
-(epstopdf)                    size: 103048 bytes
+(epstopdf)                    date: 2017-05-11 23:29:28
+(epstopdf)                    size: 103044 bytes
 (epstopdf)             Output file: <ODthresh-5DeCorr20NBMode2-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2017-04-24 15:18:46
-(epstopdf)                    size: 10670 bytes
+(epstopdf)                    date: 2017-05-11 23:29:33
+(epstopdf)                    size: 10314 bytes
 (epstopdf)             Command: <repstopdf --outfile=ODthresh-5DeCorr20NBMode2-
 eps-converted-to.pdf ODthresh-5DeCorr20NBMode2.eps>
 (epstopdf)             \includegraphics on input line 362.
@@ -765,12 +770,12 @@ Package pdftex.def Info: ODthresh-5DeCorr20NBMode2-eps-converted-to.pdf used on
  input line 362.
 (pdftex.def)             Requested size: 156.49014pt x 138.70734pt.
 Package epstopdf Info: Source file: <ODthresh-5DeCorr200NBMode2.eps>
-(epstopdf)                    date: 2017-04-24 15:27:10
-(epstopdf)                    size: 118809 bytes
+(epstopdf)                    date: 2017-05-11 23:27:50
+(epstopdf)                    size: 118805 bytes
 (epstopdf)             Output file: <ODthresh-5DeCorr200NBMode2-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2017-04-24 15:27:15
-(epstopdf)                    size: 14068 bytes
+(epstopdf)                    date: 2017-05-11 23:27:53
+(epstopdf)                    size: 13708 bytes
 (epstopdf)             Command: <repstopdf --outfile=ODthresh-5DeCorr200NBMode2
 -eps-converted-to.pdf ODthresh-5DeCorr200NBMode2.eps>
 (epstopdf)             \includegraphics on input line 368.
@@ -784,11 +789,11 @@ Package pdftex.def Info: ODthresh-5DeCorr200NBMode2-eps-converted-to.pdf used o
 n input line 368.
 (pdftex.def)             Requested size: 156.49014pt x 138.28622pt.
 Package epstopdf Info: Source file: <ODthresh-5iidMax.eps>
-(epstopdf)                    date: 2017-04-07 10:15:30
-(epstopdf)                    size: 98496 bytes
+(epstopdf)                    date: 2017-05-11 23:30:21
+(epstopdf)                    size: 98492 bytes
 (epstopdf)             Output file: <ODthresh-5iidMax-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-04-24 13:46:49
-(epstopdf)                    size: 9608 bytes
+(epstopdf)                    date: 2017-05-11 23:30:25
+(epstopdf)                    size: 9254 bytes
 (epstopdf)             Command: <repstopdf --outfile=ODthresh-5iidMax-eps-conve
 rted-to.pdf ODthresh-5iidMax.eps>
 (epstopdf)             \includegraphics on input line 378.
@@ -802,12 +807,12 @@ Package pdftex.def Info: ODthresh-5iidMax-eps-converted-to.pdf used on input li
 ne 378.
 (pdftex.def)             Requested size: 156.49014pt x 141.03105pt.
 Package epstopdf Info: Source file: <ODthresh-5DeCorr20MaxMode2.eps>
-(epstopdf)                    date: 2017-04-24 15:16:44
-(epstopdf)                    size: 102943 bytes
+(epstopdf)                    date: 2017-05-11 23:28:41
+(epstopdf)                    size: 102939 bytes
 (epstopdf)             Output file: <ODthresh-5DeCorr20MaxMode2-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2017-04-24 15:19:33
-(epstopdf)                    size: 10582 bytes
+(epstopdf)                    date: 2017-05-11 23:28:45
+(epstopdf)                    size: 10227 bytes
 (epstopdf)             Command: <repstopdf --outfile=ODthresh-5DeCorr20MaxMode2
 -eps-converted-to.pdf ODthresh-5DeCorr20MaxMode2.eps>
 (epstopdf)             \includegraphics on input line 384.
@@ -821,12 +826,12 @@ Package pdftex.def Info: ODthresh-5DeCorr20MaxMode2-eps-converted-to.pdf used o
 n input line 384.
 (pdftex.def)             Requested size: 156.49014pt x 138.70734pt.
 Package epstopdf Info: Source file: <ODthresh-5DeCorr200MaxMode2.eps>
-(epstopdf)                    date: 2017-04-24 15:24:30
-(epstopdf)                    size: 117416 bytes
+(epstopdf)                    date: 2017-05-11 23:26:51
+(epstopdf)                    size: 117412 bytes
 (epstopdf)             Output file: <ODthresh-5DeCorr200MaxMode2-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2017-04-24 15:27:16
-(epstopdf)                    size: 13781 bytes
+(epstopdf)                    date: 2017-05-11 23:26:55
+(epstopdf)                    size: 13426 bytes
 (epstopdf)             Command: <repstopdf --outfile=ODthresh-5DeCorr200MaxMode
 2-eps-converted-to.pdf ODthresh-5DeCorr200MaxMode2.eps>
 (epstopdf)             \includegraphics on input line 390.
@@ -909,7 +914,7 @@ texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist
 /fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
 pe1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on VTS.pdf (9 pages, 1400381 bytes).
+Output written on VTS.pdf (9 pages, 1394635 bytes).
 PDF statistics:
  359 PDF objects out of 1000 (max. 8388607)
  243 compressed objects within 3 object streams
