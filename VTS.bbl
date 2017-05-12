@@ -22,8 +22,9 @@
 \BIBdecl
 
 \bibitem{rappaport1996wireless}
-T.~S. Rappaport, \emph{Wireless communications: principles and practice}.\hskip
-  1em plus 0.5em minus 0.4em\relax Prentice Hall PTR New Jersey, 1996, vol.~2.
+T.~S. Rappaport, \emph{Wireless communications: {Principles and
+  Practice}}.\hskip 1em plus 0.5em minus 0.4em\relax Prentice Hall PTR New
+  Jersey, 1996, vol.~2.
 
 \bibitem{gudmundson1991correlation}
 M.~Gudmundson, ``Correlation model for shadow fading in mobile radio systems,''
@@ -54,7 +55,7 @@ A.~A. Abu-Dayya and N.~C. Beaulieu, ``Outage probabilities of cellular mobile
 
 \bibitem{petrovic2013outage}
 I.~Petrovic, M.~Stefanovic, P.~Spalevic, S.~R. Panic, and D.~Stefanovic,
-  ``Outage analysis of selection diversity over rayleigh fading channels with
+  ``Outage analysis of selection diversity over {Rayleigh} fading channels with
   multiple co-channel interferers,'' \emph{Telecommunication Systems}, vol.~52,
   no.~1, pp. 39--50, 2013.
 
@@ -70,7 +71,7 @@ M.~Vural, G.~K. Kurt, and C.~Schneider, ``The effect of shadow fading
   minus 0.4em\relax IEEE, 2015, pp. 1--6.
 
 \bibitem{lu2015long}
-T.~Lu, P.~Liu, and S.~S. Panwar, ``How long before i regain my signal?'' in
+T.~Lu, P.~Liu, and S.~S. Panwar, ``How long before {I} regain my signal?'' in
   \emph{Information Sciences and Systems (CISS), 2015 49th Annual Conference
   on}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2015, pp. 1--5.
 
@@ -112,5 +113,22 @@ S.~S. Szyszkowicz, H.~Yanikomeroglu, and J.~S. Thompson, ``On the feasibility
 \bibitem{szyszkowicz2011interference}
 S.~S. Szyszkowicz, ``Interference from large wireless networks under correlated
   shadowing,'' Ph.D. dissertation, Carleton University, 2011.
+
+\bibitem{camp2002survey}
+T.~Camp, J.~Boleng, and V.~Davies, ``A survey of mobility models for ad hoc
+  network research,'' \emph{Wireless communications and mobile computing},
+  vol.~2, no.~5, pp. 483--502, 2002.
+
+\bibitem{website1}
+\BIBentryALTinterwordspacing
+T.~Lu. github. [Online]. Available:
+  \url{https://github.com/HappyTTL/CorrelatedShadowFadingPerformance.git}
+\BIBentrySTDinterwordspacing
+
+\bibitem{website2}
+\BIBentryALTinterwordspacing
+------. github. [Online]. Available:
+  \url{hhttps://github.com/HappyTTL/OutageDuration.git}
+\BIBentrySTDinterwordspacing
 
 \end{thebibliography}
