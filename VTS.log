@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  11 MAY 2017 23:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  11 MAY 2017 23:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -732,17 +732,12 @@ Package epstopdf Info: Source file: <ODthresh-5iidNB.eps>
 (epstopdf)                    date: 2017-05-11 23:31:07
 (epstopdf)                    size: 99202 bytes
 (epstopdf)             Output file: <ODthresh-5iidNB-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-04-24 13:46:48
-(epstopdf)                    size: 9868 bytes
+(epstopdf)                    date: 2017-05-11 23:31:10
+(epstopdf)                    size: 9512 bytes
 (epstopdf)             Command: <repstopdf --outfile=ODthresh-5iidNB-eps-conver
 ted-to.pdf ODthresh-5iidNB.eps>
 (epstopdf)             \includegraphics on input line 356.
-runsystem(repstopdf --outfile=ODthresh-5iidNB-eps-converted-to.pdf ODthresh-5ii
-dNB.eps)...executed safely (allowed).
-
-Package epstopdf Info: Result file: <ODthresh-5iidNB-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-05-11 23:31:10
-(epstopdf)                    size: 9512 bytes.
+Package epstopdf Info: Output file is already uptodate.
 <ODthresh-5iidNB-eps-converted-to.pdf, id=87, 661.47125pt x 595.22375pt>
 File: ODthresh-5iidNB-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -865,33 +860,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [7 <./ODthresh-5iidNB-eps-converted-to.pdf> <./ODthresh-5DeCorr20NBMode2-eps-c
 onverted-to.pdf> <./ODthresh-5DeCorr200NBMode2-eps-converted-to.pdf> <./ODthres
 h-5iidMax-eps-converted-to.pdf> <./ODthresh-5DeCorr20MaxMode2-eps-converted-to.
-pdf> <./ODthresh-5DeCorr200MaxMode2-eps-converted-to.pdf>] (./VTS.bbl [8]
-Underfull \hbox (badness 5288) in paragraph at lines 124--127
-[]\OT1/ptm/m/n/10 T. Lu. github. [On-line]. Avail-able:
- []
-
-
-Overfull \hbox (58.73703pt too wide) in paragraph at lines 124--127
-\OT1/ptm/m/n/10 https://github.com/HappyTTL/CorrelatedShadowFadingPerformance.g
-it 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--133
-[]\OT1/ptm/m/n/10 ------. github. [On-line]. Avail-able:
- []
-
-) [9
+pdf> <./ODthresh-5DeCorr200MaxMode2-eps-converted-to.pdf>] (./VTS.bbl [8]) [9
 
 ] (./VTS.aux) ) 
 Here is how much of TeX's memory you used:
- 4893 strings out of 493014
- 71855 string characters out of 6133351
- 147156 words of memory out of 5000000
- 8329 multiletter control sequences out of 15000+600000
+ 4890 strings out of 493014
+ 71807 string characters out of 6133351
+ 147140 words of memory out of 5000000
+ 8326 multiletter control sequences out of 15000+600000
  45122 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,19n,28p,4294b,298s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,19n,28p,4274b,298s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
 /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></u
@@ -914,7 +893,7 @@ texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist
 /fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
 pe1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on VTS.pdf (9 pages, 1394635 bytes).
+Output written on VTS.pdf (9 pages, 1394507 bytes).
 PDF statistics:
  359 PDF objects out of 1000 (max. 8388607)
  243 compressed objects within 3 object streams

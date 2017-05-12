@@ -121,14 +121,7 @@ T.~Camp, J.~Boleng, and V.~Davies, ``A survey of mobility models for ad hoc
 
 \bibitem{website1}
 \BIBentryALTinterwordspacing
-T.~Lu. github. [Online]. Available:
-  \url{https://github.com/HappyTTL/CorrelatedShadowFadingPerformance.git}
-\BIBentrySTDinterwordspacing
-
-\bibitem{website2}
-\BIBentryALTinterwordspacing
-------. github. [Online]. Available:
-  \url{hhttps://github.com/HappyTTL/OutageDuration.git}
+T.~Lu. [Online]. Available: \url{https://github.com/HappyTTL}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}
